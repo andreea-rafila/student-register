@@ -1,0 +1,82 @@
+[
+  {
+    "student_id": 1,
+    "name": "Stephanie Rogers"
+  },
+  {
+    "student_id": 2,
+    "name": "Ross Garcia"
+  },
+  {
+    "student_id": 4,
+    "name": "Jeffery Garrett"
+  },
+  {
+    "student_id": 5,
+    "name": "Timothy Hart"
+  },
+  {
+    "student_id": 6,
+    "name": "Jose Moran"
+  },
+  {
+    "student_id": 7,
+    "name": "Michael Jacobs"
+  },
+  {
+    "student_id": 8,
+    "name": "Scott Williams"
+  },
+  {
+    "student_id": 9,
+    "name": "Allen Miller"
+  },
+  {
+    "student_id": 10,
+    "name": "Brenda Ball"
+  },
+  {
+    "student_id": 11,
+    "name": "Cory Evans"
+  },
+  {
+    "student_id": 12,
+    "name": "Adrian Andrews"
+  },
+  {
+    "student_id": 13,
+    "name": "Kristin Watson"
+  },
+  {
+    "student_id": 14,
+    "name": "Gregory Valencia"
+  },
+  {
+    "student_id": 15,
+    "name": "Mr. David Jones"
+  },
+  {
+    "student_id": 16,
+    "name": "Alexandria Mcdonald"
+  },
+  {
+    "student_id": 17,
+    "name": "April Evans"
+  },
+  {
+    "student_id": 18,
+    "name": "Heather Avila"
+  },
+  {
+    "student_id": 19,
+    "name": "Brenda Perry"
+  },
+  {
+    "student_id": 20,
+    "name": "Ryan Gibson"
+  },
+  {
+    "student_id": 3,
+    "name": "Ian Pruitt"
+  }
+]

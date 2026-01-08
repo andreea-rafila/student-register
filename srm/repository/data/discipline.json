@@ -1,0 +1,82 @@
+[
+  {
+    "discipline_id": 1,
+    "name": "Return"
+  },
+  {
+    "discipline_id": 2,
+    "name": "Amount"
+  },
+  {
+    "discipline_id": 3,
+    "name": "Wind"
+  },
+  {
+    "discipline_id": 4,
+    "name": "Discussion"
+  },
+  {
+    "discipline_id": 5,
+    "name": "Six"
+  },
+  {
+    "discipline_id": 6,
+    "name": "Whatever"
+  },
+  {
+    "discipline_id": 7,
+    "name": "Heart"
+  },
+  {
+    "discipline_id": 8,
+    "name": "Upon"
+  },
+  {
+    "discipline_id": 9,
+    "name": "Hospital"
+  },
+  {
+    "discipline_id": 10,
+    "name": "Particular"
+  },
+  {
+    "discipline_id": 11,
+    "name": "Lawyer"
+  },
+  {
+    "discipline_id": 12,
+    "name": "Stop"
+  },
+  {
+    "discipline_id": 13,
+    "name": "None"
+  },
+  {
+    "discipline_id": 14,
+    "name": "Place"
+  },
+  {
+    "discipline_id": 15,
+    "name": "Huge"
+  },
+  {
+    "discipline_id": 16,
+    "name": "Employee"
+  },
+  {
+    "discipline_id": 17,
+    "name": "More"
+  },
+  {
+    "discipline_id": 18,
+    "name": "Able"
+  },
+  {
+    "discipline_id": 19,
+    "name": "Onto"
+  },
+  {
+    "discipline_id": 20,
+    "name": "Fill"
+  }
+]
